@@ -24,7 +24,7 @@ int main()
 		
 		if(weight >50)
 		
-			printf("You wieght condition is satisfied \n \n");
+			printf("You weight condition is satisfied \n \n");
 		
 		else
 			printf("Your weight condition is not satisfied \n \n");
