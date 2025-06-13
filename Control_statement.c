@@ -32,7 +32,7 @@ int main()
 	}
 	else
 		{
-			printf("Your age  consition is not satisifed , your are not eligible to donate blood");
+			printf("Your age  condition is not satisifed , your are not eligible to donate blood");
 		}
 		
 	printf("Thank you for donating blood");
