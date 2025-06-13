@@ -6,6 +6,7 @@ int main()
 	int celsius = 35 , fahrenheit;
 	int age = 25 , weight = 60;
 	
+	printf("Checking condition to convert clesius to fahrenheit");
 	if(celsius >30)
 	{
 	fahrenheit = celsius * 9/5 +32;
@@ -14,10 +15,10 @@ int main()
 	}
 	else
 	{
-		printf("Temperature is less than 30 degree celsius \n n\n");
+		printf("Temperature is less than 30 degree celsius \n \n");
 	}
 	
-	
+	printf("Checking conditon if you can donate blood or not \n");
 	if(age > 18)
 	{
 		printf("Your age condition is satisfied , you are eligible to donate blood \n \n ");
