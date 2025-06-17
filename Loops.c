@@ -5,6 +5,7 @@ int main()
 {
 	int i,starting,ending;
 	int j;
+	int a,num,ans;
 	printf("Enter the starting Number: ");
 	scanf("%d",&starting);	
 	printf("Enter the Ending Number: ");
@@ -33,6 +34,15 @@ int main()
 			printf("%d -> Odd \n",j);
 		}
 	}
+	//While Loop
+	printf("Enter value to find the table for :");
+	scanf("%d",&num);	
+	while(a<=10)
+	{
+		ans = num*a;
+		printf(" %d * %d = %d \n",num,a,ans);
+		a++;
+	}	
 }
 
 //accept range from user starting and ending and find divisible by 3,5
