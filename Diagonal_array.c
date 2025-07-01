@@ -8,7 +8,7 @@ int main()
 
 	if(row == col)
 		{
-			printf("Diagonal Summation is Possible");
+			printf("Diagonal Summation is Possible \n");
 		}
 		else
 		{
