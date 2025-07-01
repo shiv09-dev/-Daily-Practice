@@ -12,7 +12,7 @@ int main()
 		}
 		else
 		{
-			printf("Diagonal Summation is not Possible");
+			printf("Diagonal Summation is not Possible \n");
 			goto a;	
 		}
 		
