@@ -18,7 +18,7 @@ int main()
 	
 	for(i=1;i<=num;i++)
 	{
-		printf("Enter details of the Employee such as 'ID  Salary  Name  Department Name:' \n");
+		printf("Enter details of the Employee such as : 'ID  Salary  Name  Department Name:' \n");
 		scanf("%d %d %s %s",&a.id, &a.salary, &a.name, &a.deptname);		
 	
 		printf("\n");
